@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MVPSample</string>
+    <string name="button">Click me!</string>
+    <string name="empty">Did you forget to write anything?</string>
+
 </resources>
